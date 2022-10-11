@@ -1,0 +1,12 @@
+C:\Users\Burak\Desktop\ErtevMasaustu\ErtevMasaustu\bin\Debug\ErtevMasaustu.exe.config
+C:\Users\Burak\Desktop\ErtevMasaustu\ErtevMasaustu\bin\Debug\ErtevMasaustu.exe
+C:\Users\Burak\Desktop\ErtevMasaustu\ErtevMasaustu\bin\Debug\ErtevMasaustu.pdb
+C:\Users\Burak\Desktop\ErtevMasaustu\ErtevMasaustu\obj\Debug\ErtevMasaustu.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\ErtevMasaustu\ErtevMasaustu\obj\Debug\ErtevMasaustu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burak\Desktop\ErtevMasaustu\ErtevMasaustu\obj\Debug\ErtevMasaustu.MainWindow.resources
+C:\Users\Burak\Desktop\ErtevMasaustu\ErtevMasaustu\obj\Debug\ErtevMasaustu.Properties.Resources.resources
+C:\Users\Burak\Desktop\ErtevMasaustu\ErtevMasaustu\obj\Debug\ErtevMasaustu.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\ErtevMasaustu\ErtevMasaustu\obj\Debug\ErtevMasaustu.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\ErtevMasaustu\ErtevMasaustu\obj\Debug\ErtevMasaustu.exe
+C:\Users\Burak\Desktop\ErtevMasaustu\ErtevMasaustu\obj\Debug\ErtevMasaustu.pdb
+C:\Users\Burak\Desktop\ErtevMasaustu\ErtevMasaustu\obj\Debug\ErtevMasaustu.SecondWindow.resources
